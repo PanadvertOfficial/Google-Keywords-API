@@ -40,7 +40,7 @@ curl -X POST \
 
 ## Examples & Use Cases
 
-In the examples below you can find ready to go queries for accessing the entire *country,region,subregion & city* structure without using an API Token. The location levels are following the order mentioned previously.  From that point on it is very straight forward. You can create the queries you want to run in our [interface](https://api.panadvert.com/gks/explorer) and paste the query in the ***data*** parameter. You can find more information on how to query the API in [[Interface]] Documentation.
+In the examples below you can find ready to go queries for accessing the entire *country,region,subregion & city* structure without using an API Token. The location levels are following the order mentioned previously.  From that point on it is very straight forward. You can create the queries you want to run in our [interface](https://api.panadvert.com/gks/explorer) and paste the query in the ***data*** parameter. You can find more information on how to query the API in [Interface Documentation](Interface.md).
 ### Linux/MacOs Terminal Curl
 
 ```bash 
