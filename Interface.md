@@ -1,13 +1,3 @@
-
-# Table of Contents
-- [[#Accessing the GraphQL Explorer]]
-- [[#Writing Your Query]]
-	- [[#Exploring Data]]
-	- [[#Headers]]
-- [[#Query Information]]
-- [[#Conclusion]]
-
-
 # Panadvert API Interface Usage Guide
 
 Welcome to the Panadvert GraphQL API. This guide will walk you through the steps to create and run queries against our GraphQL endpoint to fetch data such as city details. Let's get started.
@@ -69,7 +59,7 @@ query MyQuery {
 }
 ```
 
-As mentioned in the [[Quick Start]] Guide, you can change the name of the query from 'MyQuery' to anything you want.
+As mentioned in the [Quick Start](Quick%20Start.md) Guide, you can change the name of the query from 'MyQuery' to anything you want.
 
 When run, this query would produce a result such as:
 
