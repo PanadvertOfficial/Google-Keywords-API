@@ -24,4 +24,4 @@ Our data is sourced directly from Booking.com, Google, Hellenic Hotel's Chamber 
 ## Getting Started
 To start exploring the capabilities of Panadvert's Searches API or to stay informed about our latest updates, contact us at [api@panadvert.com](mailto:api@panadvert.com) or access our [free sources](https://api.panadvert.com). _Project Status: Early Access. We are actively developing this API and welcome your feedback and suggestions._
 
-Check your our [[Quick Start]] Guide to start querying ASAP. 
+Check your our [Quick Start](Quick%20Start.md) Guide to start querying ASAP. 
