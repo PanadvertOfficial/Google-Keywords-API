@@ -1,23 +1,3 @@
-## Table of Contents
-- [[#Introduction]]
-- [[#Your API Token]]
-	- [[#Make your API Token]]
-	- [[#Use your API Token]]
-- [[#Examples & Use Cases]]
-	- [[#Linux/MacOs Terminal Curl]]
-	- [[#Windows command Line Curl]]
-	- [[#Windows Power Shell]]
-	- [[#PHP]]
-	- [[#JavaScript node-fetch]]
-	- [[#Java]]
-	- [[#C Sharp]]
-	- [[#Python]]
-	- [[#Ruby]]
-	- [[#GO]]
-	- [[#Rust]]
-	- [[#Notes]]
-- [[#Tips]]
-
 ## Introduction
 
 Our API works with any programming language that can make http/https requests.
