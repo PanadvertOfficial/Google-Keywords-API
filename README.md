@@ -22,6 +22,6 @@ The Panadvert's Searches API leverages several cutting-edge technologies to prov
 ## Data Reliability 
 Our data is sourced directly from Booking.com, Google, Hellenic Hotel's Chamber and many other sources. Ensuring accuracy and relevance. The API is currently in early access, with regular updates and data enhancements being made. We are committed to evolving the API towards full automation with minimal maintenance requirements. 
 ## Getting Started
-To start exploring the capabilities of Panadvert's Searches API or to stay informed about our latest updates, contact us at [api@panadvert.com](mailto:api@panadvert.com) or access our [free sources](https://api.panadvert.com). _Project Status: Early Access. We are actively developing this API and welcome your feedback and suggestions._
+To start exploring the capabilities of Panadvert's Searches API or to stay informed about our latest updates, contact us at [api@panadvert.com](mailto:api@panadvert.com). _Project Status: Early Access. We are actively developing this API and welcome your feedback and suggestions._
 
 Check your our [Quick Start](Quick%20Start.md) Guide to start querying ASAP. 

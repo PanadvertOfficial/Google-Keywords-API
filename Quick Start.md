@@ -75,10 +75,8 @@ $response = Invoke-WebRequest -Uri "https://api.panadvert.com/gks/gql/" -Method 
     "extensions": {}
   }'
 
-# Convert the response from JSON format to a PowerShell object
 $responseData = $response.Content | ConvertFrom-Json
 
-# Access and print the 'cities' array from the data
 $responseData.data.cities | ForEach-Object {
   Write-Host "Country: $($_.country)"
   Write-Host "City Name: $($_.name)"
@@ -173,8 +171,6 @@ public class Main {
                 .build();
 
         try (Response response = client.newCall(request).execute()) {
-            // Assuming the response JSON structure is similar to the Python example
-            // Additional parsing will be required here
             System.out.println(response.body().string());
         }
     }
@@ -200,9 +196,6 @@ class Program
 
             var response = await client.PostAsync(url, data);
             string resultContent = await response.Content.ReadAsStringAsync();
-
-            // Assuming the response JSON structure is similar to the Python example
-            // Additional parsing and JSON deserialization will be required here
             Console.WriteLine(resultContent);
         }
     }
